@@ -1,8 +1,9 @@
 PZ Wiki Modding is an organization with the goal of providing resources related to modding for the official [Project Zomboid wiki](https://pzwiki.net/wiki/Project_Zomboid_Wiki). It notably serves as the heart for the [PZ API Docs](https://pz-wiki-modding.github.io/PZ-API-Docs/index.html).
 
-Two datasets are provided:
+Three datasets are provided:
 - [pz-scripts-data](https://github.com/PZ-Wiki-Modding/pz-scripts-data)
 - [pz-translation-data](https://github.com/PZ-Wiki-Modding/pz-translation-data)
+- [pz-xml-data](https://github.com/PZ-Wiki-Modding/pz-xml-data)
 
 Two parsers are provided:
 - [pz-lua-parser](https://github.com/PZ-Wiki-Modding/pz-lua-parser)
