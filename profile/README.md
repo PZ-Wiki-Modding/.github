@@ -2,6 +2,7 @@ PZ Wiki Modding is an organization with the goal of providing resources related 
 
 # Tools
 Tools are created for modders to help them with their modding workflow.
+- [ZedScripts](https://github.com/PZ-Wiki-Modding/ZedScripts) - a VSCode extension to help with the creation and validation of [scripts](https://pzwiki.net/wiki/Scripts), using the [pz-scripts-data](https://github.com/PZ-Wiki-Modding/pz-scripts-data) dataset.
 - [Wiki Tools](https://github.com/PZ-Wiki-Modding/Wiki-Tools) - in-game tools for the wiki editors and modders to export renders of the character outfits and items.
 
 # Wiki That!
