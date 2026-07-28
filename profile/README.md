@@ -5,7 +5,7 @@ Tools are created for modders to help them with their modding workflow.
 - [ZedScripts](https://github.com/PZ-Wiki-Modding/ZedScripts) - a VSCode extension to help with the creation and validation of [scripts](https://pzwiki.net/wiki/Scripts), using the [pz-scripts-data](https://github.com/PZ-Wiki-Modding/pz-scripts-data) dataset.
 - [Wiki Tools](https://github.com/PZ-Wiki-Modding/Wiki-Tools) - in-game tools for the wiki editors and modders to export renders of the character outfits and items.
 
-# Wiki That!
+# Player tools
 [Wiki That!](https://github.com/PZ-Wiki-Modding/Wiki-That) is a tool to help players access wiki content directly in-game. It simply allows the player to right click an item, tile etc to easily access this element's wiki page. A tool is also provided, [PZ Backup](https://github.com/PZ-Wiki-Modding/PZ-Backup), to easily back up the current game installation to create a fully independent instance of the game to not be impacted by updates from both the game and mods.
 
 # Datasets
