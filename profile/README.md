@@ -23,3 +23,7 @@ Parsers aim to provide an automatic workflow to extract information from the gam
 Projects and modding resources are archived here to preserve them for future use and to not get lost to time. Some of these include old tools, resources or guides that are either no longer relevant or have been superseded by newer tools.
 - [Archive.Project-Zomboid-Modding](https://github.com/PZ-Wiki-Modding/Archive.Project-Zomboid-Modding)
 - [Archive.Azakaela-s-Modding-Tools](https://github.com/PZ-Wiki-Modding/Archive.Azakaela-s-Modding-Tools)
+
+# Other organizations
+- [Rosetta Project](https://pzwiki.net/wiki/Rosetta_Project) - an organization with tools and datasets to provide Lua and Java stubs
+- [Unofficial PZ Mapping Discord](https://github.com/Unofficial-PZ-Mapping-Discord) - a community providing assets and tools related to mapping
