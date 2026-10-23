@@ -2,7 +2,7 @@ PZ Wiki Modding is an organization with the goal of providing resources related 
 
 # Tools
 Tools are created for modders to help them with their modding workflow.
-- [ZedScripts-LSP](https://github.com/PZ-Wiki-Modding/ZedScripts-LSP) provides a LSP for the parsing and validation of [scripts](https://pzwiki.net/wiki/Scripts), using the [pz-scripts-data](https://github.com/PZ-Wiki-Modding/pz-scripts-data) dataset.
+- [ZedScripts-LSP](https://github.com/PZ-Wiki-Modding/ZedScripts-LSP) - provides a LSP for the parsing and validation of [scripts](https://pzwiki.net/wiki/Scripts), using the [pz-scripts-data](https://github.com/PZ-Wiki-Modding/pz-scripts-data) dataset.
 - [ZedScripts-VSCode](https://github.com/PZ-Wiki-Modding/ZedScripts-VSCode) - a VSCode extension which implements the ZedScripts-LSP.
 - [Wiki Tools](https://github.com/PZ-Wiki-Modding/Wiki-Tools) - in-game tools for the wiki editors and modders to export renders of the character outfits and items.
 
