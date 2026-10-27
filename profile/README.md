@@ -19,6 +19,7 @@ Datasets are provided:
 Parsers aim to provide an automatic workflow to extract information from the game files and output useful information:
 - [pz-lua-parser](https://github.com/PZ-Wiki-Modding/pz-lua-parser)
 - [pz-java-parser](https://github.com/PZ-Wiki-Modding/pz-java-parser)
+- [pz-animsets-parser](https://github.com/PZ-Wiki-Modding/pz-animsets-parser)
 
 # Archives
 Projects and modding resources are archived here to preserve them for future use and to not get lost to time. Some of these include old tools, resources or guides that are either no longer relevant or have been superseded by newer tools.
